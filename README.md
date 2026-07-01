@@ -13,9 +13,8 @@ This is a simple Personal Profile webpage created using HTML and CSS. It display
 * Responsive and user-friendly design
 
 ## Technologies Used
-
 * HTML5
-* CSS3
+* CSS3 (Version-3)
 
 ## Skills Displayed
 
@@ -36,8 +35,6 @@ This is a simple Personal Profile webpage created using HTML and CSS. It display
 * Creating webpage layouts using HTML
 * Styling webpages with CSS
 * Working with images, links, and lists
-* Designing a personal portfolio/profile page
 
 ## Author
-
 Nancy Chaudhary
